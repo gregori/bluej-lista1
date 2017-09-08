@@ -1,15 +1,10 @@
-----------------------------------------------------------------------------
-Este é o arquivo README do projeto. Você deve descrever aqui o seu projeto.
-Informe ao usuário (alguém que não sabe nada sobre este projeto!) tudo que
-ele/ela precisa saber. Os comentários devem incluir, pelo menos:
-------------------------------------------------------------------------
 
-TITULO DO PROJETO:
-OBJETIVO DO PROJETO:
-VERSÃO ou DATA:
-COMO INICIAR O PROJETO:
+TITULO DO PROJETO: Resolução da lista de exercícios 1
 AUTORES:
 INSTRUÇÕES PARA O USUÁRIO:
+Aqui estão as respostas das questões teóricas. As outras respostas estão
+nas classes do projeto
+
 
 1. Classe é a definição de algo, o objeto é a concretização da classe
 - NomeDaClasse - nomeDoObjeto
